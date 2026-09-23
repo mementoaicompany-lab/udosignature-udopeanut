@@ -5,7 +5,12 @@
   "baseUrl": "https://udopeanut.udosignature.com/",
   "project": "udosignature-udopeanut",
   "private": false,
-  "naverVerification": null,
+  "naverVerification": "47c17288a17153d81652ef7555984a9ccd6e53fa",
   "checkedAt": "2026-09-20",
-  "designUpdatedAt": "2026-09-23"
+  "designUpdatedAt": "2026-09-23",
+  "googleVerification": "AedKNPnwqrZI4KSU5c2gBuaA5LTw18pU-zRB1LiMn2k",
+  "alternateName": [
+    "우도 씨앗"
+  ],
+  "indexNowKey": "ae4625d49d3f41f5bfa1fafa49e0c9d5"
 }
